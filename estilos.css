@@ -1,0 +1,32 @@
+h1{
+color: blue;
+font-family: Arial, Helvetica, sans-serif;
+background-color: yellowgreen;
+text-align: center;
+}
+h2{
+    color:  rgb(2, 24, 97);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(118, 116, 116);
+    font-size:20px;
+    text-transform: uppercase;
+}
+p{
+    background-color: burlywood;
+    line-height:28px;
+}
+.destacado{
+    color: black;
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:20px;
+}
+#unico{
+    color: rgb(66, 55, 40);
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 0px 35px 35px 0px;
+-webkit-border-radius: 0px 35px 35px 0px;
+-moz-border-radius: 0px 35px 35px 0px;
+border: 8px solid #121b4a;
+}
